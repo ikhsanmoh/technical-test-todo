@@ -36,7 +36,7 @@ and TODOs.
   6. The app should make it easy to switch a note to a TODO entry, and
      vice versa.
   7. The app should consists of both frontend and backend.
-  7. Deploy your app on vercel, heroku, netlify, replit or whichever platform you choose and we can easily view it
+  8. Use `TypeScript` for the frontend and backend
 
 * Questions
 
@@ -44,6 +44,10 @@ and TODOs.
 
   - What design patterns did you use inside the application?
   - How did you manage your states?
+  - What data protocol did you use to connect both backend and frontend?
+    + Is this the best way to integrate data?
+    + If yes, Why?
+    + If no, Can you suggest more better ways?
   - What libraries did you use?
     + Why did you use this library?
     + Are there other libraries available?
@@ -54,6 +58,10 @@ and TODOs.
 
   In addition, you may provide more information in your PR/patch email
   that you would like us to know.
+
+* Bonus Questions
+  - Explain Hoisting to a 5 year old kid.
+  - Explain Memoization to a 5 year old kid.
 
 * Notes
 
