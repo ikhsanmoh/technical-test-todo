@@ -9,7 +9,7 @@ and TODOs.
   1. Fork this repository on your own personal GitHub account.
   2. Download your fork, build this app, and begin making changes.
   3. When finished, create a Pull Request to merge into new version,
-     then send an email to [@dev.ikhsanmohamad@gmail.com] to let him know you're ready for
+     then send an email to dev.ikhsanmohamad@gmail.com to let him know you're ready for
      review.
   4. We will close the pull request.
 
